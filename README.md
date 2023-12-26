@@ -40,7 +40,7 @@ docker run -dit --name web -p 80:5000 tareqtech/flask
 ```
 
 
-Open Google chrome and run your IP with ports 8080
+Open Google chrome and run your IP with ports 80
 ```
 http://<IP Address>:80
 ```
